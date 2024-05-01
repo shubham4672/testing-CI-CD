@@ -3,3 +3,8 @@ node_modules/
 
 # Ignore npm lock files
 package-lock.json
+
+# Ignore log, cache, and dist directories
+log/
+cache/
+dist/
