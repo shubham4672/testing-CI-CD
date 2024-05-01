@@ -31,6 +31,8 @@
     [Dd]ebug*/
     [Rr]elease*/
     Ankh.NoLoad
+    package.json
+    package-lock.json
     
     #Tooling
     _ReSharper*/
